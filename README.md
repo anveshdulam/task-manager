@@ -13,11 +13,7 @@ Status Tracking: Clearly display task states (e.g., Not Started, In Progress, Co
 Deadline Management: Assign due dates to tasks to ensure timely completion.
 
 Organization: Allow users to categorize tasks using labels or folders.
-Collaboration: Support assigning tasks to specific team members and tracking updates.
-Functionality:
 
-Prioritization: Enable users to set priority levels (e.g., High, Medium, Low) for tasks.
-Reminders: Send notifications or alerts for upcoming or overdue tasks.
 Reporting: Provide simple summaries of task completion and pending items.
 
 Benefits:
