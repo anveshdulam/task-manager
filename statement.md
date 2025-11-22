@@ -26,4 +26,7 @@ Clarity: They need a clear visual distinction between what still needs to be don
 
 Control: They require the ability to quickly edit task details when plans change.
 
+Features:
+In this task manager we can check the task that your are entered then you add and delete the  tasks that you have no intrest on it we can view all and if completed the task you have to enter the completed task in it so app can knoew that you are comleted it.
+
 Technical Proficiency: Assumed to be basic to moderate; the interface must be intuitive, requiring no advanced technical knowledge.
