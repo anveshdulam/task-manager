@@ -4,7 +4,7 @@ Ineffective Tracking: Users struggle to effectively track, manage, and prioritiz
 Lack of Centralization: There is no single, easily editable system for distinguishing between current and completed tasks.
 Consequences: Leads to missed deadlines, reduced productivity, and unnecessary cognitive load.
 Goal: To provide a focused, intuitive, and simple solution for personal task management.
-scope of the porject:
+scope of the porject.
 
 Task Creation: Allow the user to input a new task, including a title and an optional description.
 Task Listing: Display a clear, easily readable list of active tasks.
